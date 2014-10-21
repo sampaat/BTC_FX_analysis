@@ -1,0 +1,5 @@
+1st: mtgoxUSD 0.98
+2nd: bitstampUSD 0.58 btcnCNY 0.56 btceUSD 0.34 okcoinCNY 0.29 bitfinexUSD 0.26 mtgoxUSD -0.12
+3rd: bitstampUSD 0.62 bitfinexUSD 0.18 mtgoxEUR 0.16 okcoinCNY -0.4 btcnCNY -0.59
+4th: btceUSD 0.86 virwoxSLL 0.232 intrsngGBP 0.12 mtgoxGBP 0.1 btcnCNY -0.17 bitstampUSD -0.26
+5th: mtgoxEUR 0.54 btc24EUR 0.45 virwoxSLL 0.27 btcdeEUR 0.18 mtgoxGBP 0.17 btcnCNY 0.17 bitfloorUSD 0.13 thUSD -0.11 intrsngGBP -0.14 btceUSD -1.74 bitfinexUSD -0.4
